@@ -14,7 +14,7 @@
 <p><b>4º Passo:</b></p>
   <p>Realizar um Parser para torna a estrutura dos dados aninhada.</p>
 <p><b>5º Passo:</b></p>
-   <p>Realizar a raspagem da página, o qual os dados interessados são as vagas em aberto  por localidade, logo após, realizei um append e extrair somente os textos .</p>
+   <p>Realizar a raspagem da página, extraindo as vagas em abertas e suas localidades, realizei um append e extrair somente os textos .</p>
 <p><b>6º Passo:</b></p>
    <p>Criação do Dataframe no pandas, onde defini as colunas e os dados</p>
 <p><b>7º Passo:</b></p> 
